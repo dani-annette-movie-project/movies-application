@@ -1,11 +1,6 @@
 {
   "movies": [
     {
-      "title": "Bones Brigade: An Autobiography",
-      "rating": "5",
-      "id": 9
-    },
-    {
       "title": "Pulp Fiction ",
       "rating": "5",
       "id": 10
@@ -19,6 +14,11 @@
       "title": "Kill Bill",
       "rating": "5",
       "id": 13
+    },
+    {
+      "title": "dani test movie",
+      "rating": "3",
+      "id": 14
     }
   ]
 }

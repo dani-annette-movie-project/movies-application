@@ -17,3 +17,15 @@ html, body {
     margin: auto;
 }
 
+
+td{
+    font-family: 'Oswald', sans-serif;
+}
+
+th{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+
+}

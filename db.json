@@ -1,9 +1,29 @@
 {
   "movies": [
     {
-      "title": "joe dirt ",
-      "rating": "3",
-      "id": 7
+      "title": "Anchor Man",
+      "rating": "5",
+      "id": 8
+    },
+    {
+      "title": "Spider Man",
+      "rating": "4",
+      "id": 9
+    },
+    {
+      "title": "Joe Dirt",
+      "rating": "2",
+      "id": 10
+    },
+    {
+      "title": "\"IT\" Chapter Two",
+      "rating": "5",
+      "id": 11
+    },
+    {
+      "title": "test",
+      "rating": "2",
+      "id": 12
     }
   ]
 }

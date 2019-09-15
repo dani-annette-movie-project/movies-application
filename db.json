@@ -1,24 +1,9 @@
 {
   "movies": [
     {
-      "title": "Pulp Fiction ",
-      "rating": "5",
-      "id": 10
-    },
-    {
-      "title": "Fear And Loathing In Las Vegas",
-      "rating": "4",
-      "id": 11
-    },
-    {
-      "title": "Kill Bill",
-      "rating": "5",
-      "id": 13
-    },
-    {
-      "title": "dani test movie",
+      "title": "joe dirt ",
       "rating": "3",
-      "id": 14
+      "id": 7
     }
   ]
 }

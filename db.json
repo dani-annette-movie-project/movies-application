@@ -12,7 +12,7 @@
     },
     {
       "title": "Joe Dirt",
-      "rating": "2",
+      "rating": "5",
       "id": 10
     },
     {
@@ -21,9 +21,14 @@
       "id": 11
     },
     {
-      "title": "test",
-      "rating": "2",
+      "title": "Star Wars",
+      "rating": "3",
       "id": 12
+    },
+    {
+      "title": "Pulp Fiction",
+      "rating": "5",
+      "id": 13
     }
   ]
 }

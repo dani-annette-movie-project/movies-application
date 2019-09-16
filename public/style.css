@@ -1,17 +1,30 @@
-html, body {
+html{
     height: 100%;
-    background-image: linear-gradient(to left top, #253b90, #28439e, #2b4cac, #2d55ba, #2e5ec8, #1d62c3, #0b65bd, #0067b6, #006096, #005471, #00454e, #0e3633);
+    background-color: black;
+}
+
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 100%;
+    background-color: black;
 }
 
 .container {
     position: relative;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translateY(-25%);
     text-align: center;
+    background-color: black;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    color: white;
 
 }
 
-#spinner {
+.spinner {
     display: flex;
     justify-content: center;
     margin: auto;
@@ -26,6 +39,16 @@ th{
     font-family: 'Montserrat', sans-serif;
 }
 
-.jumbotron {
-
+video.jumbotron {
+    margin: auto;
+    height: 500px;
+    background: black;
+    padding: 0;
+    width: 100%;
 }
+
+
+
+
+
+

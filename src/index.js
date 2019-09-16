@@ -16,8 +16,7 @@
 
 
     const updateHTML = () => {
-        $('#spinner').css('display', 'none');
-        // console.log('Here are all the movies:');
+
         getMovies()
             .then((movies) => {
 
@@ -34,6 +33,8 @@
             });
     };
     updateHTML();
+
+
 //////////////////adds movies and makes post request/////////////////
 
 
